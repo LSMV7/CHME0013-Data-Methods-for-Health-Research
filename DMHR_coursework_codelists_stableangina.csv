@@ -1,0 +1,28 @@
+STABLE ANGINA ,,,,,,
+category,readcode,readterm,,,,Categories:                                                       
+1,14A5.00,H/O: angina pectoris,,,,1. History of stable angina                                       
+1,14AJ.00,H/O: Angina in last year,,,,2. Vasospastic angina                                             
+2,G331.00,Prinzmetal's angina,,,,3. Cardiac syndrome X                                             
+2,G331.11,Variant angina pectoris,,,,4. Stable angina                                                  
+2,G332.00,Coronary artery spasm,,,,
+3,G37..00,Cardiac syndrome X,,,,
+4,662K.00,Angina control,,,,
+4,662K000,Angina control - good,,,,
+4,662K100,Angina control - poor,,,,
+4,662K200,Angina control - improving,,,,
+4,662Kz00,Angina control NOS,,,,
+4,8B27.00,Antianginal therapy,,,,
+4,G33..00,Angina pectoris,,,,
+4,G330.00,Angina decubitus,,,,
+4,G330000,Nocturnal angina,,,,
+4,G330z00,Angina decubitus NOS,,,,
+4,G33z.00,Angina pectoris NOS,,,,
+4,G33z100,Stenocardia,,,,
+4,G33z200,Syncope anginosa,,,,
+4,G33z300,Angina on effort,,,,
+4,G33z500,Post infarct angina,,,,
+4,G33z600,New onset angina,,,,
+4,G33z700,Stable angina,,,,
+4,G33zz00,Angina pectoris NOS,,,,
+4,G34y000,Chronic coronary insufficiency,,,,
+4,Gyu3000,[X]Other forms of angina pectoris,,,,

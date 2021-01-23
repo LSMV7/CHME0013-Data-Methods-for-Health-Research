@@ -1,0 +1,16 @@
+INVASIVE CORONARY ANGIOGRAPHY ,,,,,,
+category,readcode,readterm,,,,Categories:                                                       
+1,5542.00,Coronary arteriography normal,,,,1. Results normal                                                 
+3,5543.00,Coronary arteriograph.abnormal,,,,2. Results potentially abnormal                                   
+3,554..00,Coronary arteriogr.-general,,,,3. Results abnormal                                               
+3,554..11,Coronary arteriography,,,,
+3,554Z.00,Coronary arteriog-general NOS,,,,
+3,792A000,Percutaneous transluminal angioscopy,,,,
+3,792A100,Intravascular ultrasound of coronary artery,,,,
+3,7938300,Coronary arteriography using two catheters,,,,
+3,7938400,Coronary arteriography using single catheter,,,,
+3,7938500,Coronary arteriography NEC,,,,
+3,7938600,Coronary arteriography using three catheters,,,,
+3,7939.11,Cardiac catheterisation,,,,
+3,TA06.11,Accid cut/puncture/perf/h'ge during cardiac catheterisation,,,,
+3,TB10.00,"Cardiac catheterisation with complication, without blame",,,,

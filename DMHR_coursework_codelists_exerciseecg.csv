@@ -1,0 +1,14 @@
+EECG,,,,,,
+category,readcode,readterm,,,,Categories:                                                       
+1,3213000,Exercise ECG normal,,,,1. Results normal                                                 
+1,3213011,Negative exercise ECG test,,,,2. Results potentially abnormal                                   
+1,33B9300,Exercise tolerance test normal,,,,3. Results abnormal                                               
+3,3213100,Exercise ECG abnormal,,,,
+3,3213111,Positive exercise ECG test,,,,
+3,33B9500,Exercise tolerance test abnormal,,,,
+3,3213.00,Exercise ECG,,,,
+3,33B9.00,Exercise tolerance test,,,,
+3,33B9100,Exercise tolerance test done,,,,
+3,33B9Z00,Exercise tolerance test NOS,,,,
+3,7P07711,Exercise tolerance test with myoview scan,,,,
+3,7P0G300,Exercise electrocardiography,,,,
